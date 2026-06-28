@@ -1,0 +1,51 @@
+ProductKey,ProductName,Category,Brand,Unit,CostPrice,RetailPrice
+PROD0001,Generic Product,Bakery,DMart,250 ml,162.7,184.67
+PROD0002,Britannia Cake 120g,Snacks,Britannia,1 kg,45.45,53.91
+PROD0003,Nestle Curd 400g,Dairy,Nestle,250 ml,179.59,221.77
+PROD0004,Parle-G Biscuits 800g,Snacks,Parle,6 pcs,112.48,129.08
+PROD0005,Kurkure Masala Munch 90g,Snacks,PepsiCo,500 g,163.41,190.38
+PROD0006,Generic Product,Vegetables,DMart,500 g,180.26,221.2
+PROD0007,Mother Dairy Toned Milk 1L,Dairy,Mother Dairy,1 kg,70.42,81.36
+PROD0008,Nestle Curd 400g,Dairy,Nestle,1 L,30.91,36.09
+PROD0009,Amul Fresh Cream 250ml,Dairy,Amul,1 kg,53.31,63.97
+PROD0010,Britannia Cake 120g,Snacks,Britannia,1 L,91.15,105.61
+PROD0011,Generic Product,Bakery,DMart,500 g,165.42,190.69
+PROD0012,Mother Dairy Toned Milk 1L,Dairy,Mother Dairy,1 kg,173.54,211.9
+PROD0013,Tropicana Orange Juice 1L,Beverages,Tropicana,6 pcs,11.32,13.21
+PROD0014,Bingo Mad Angles 80g,Snacks,ITC,250 ml,107.04,130.77
+PROD0015,Generic Product,Vegetables,DMart,1 L,89.31,99.73
+PROD0016,Generic Product,Bakery,DMart,250 ml,52.2,58.86
+PROD0017,Coca-Cola 2L,Beverages,Coca-Cola,250 ml,32.77,37.46
+PROD0018,Pepsi 1.5L,Beverages,PepsiCo,1 kg,74.15,95.97
+PROD0019,Generic Product,Vegetables,DMart,250 ml,189.15,208.16
+PROD0020,Generic Product,Bakery,DMart,6 pcs,71.41,90.04
+PROD0021,Britannia Cake 120g,Snacks,Britannia,250 ml,108.57,138.23
+PROD0022,Generic Product,Fruits,DMart,1 kg,143.57,172.81
+PROD0023,Generic Product,Bakery,DMart,6 pcs,79.09,96.89
+PROD0024,Generic Product,Vegetables,DMart,500 g,194.64,225.23
+PROD0025,Tropicana Orange Juice 1L,Beverages,Tropicana,250 ml,192.86,241.93
+PROD0026,Lays Classic 100g,Snacks,PepsiCo,1 kg,57.84,74.45
+PROD0027,Generic Product,Bakery,DMart,500 g,104.48,123.55
+PROD0028,Generic Product,Fruits,DMart,500 g,67.17,77.42
+PROD0029,Generic Product,Fruits,DMart,1 L,64.12,76.64
+PROD0030,Britannia Cheese Slices 200g,Dairy,Britannia,6 pcs,17.01,20.72
+PROD0031,Nestle Curd 400g,Dairy,Nestle,250 ml,125.82,151.63
+PROD0032,Generic Product,Vegetables,DMart,1 kg,105.51,128.71
+PROD0033,Generic Product,Bakery,DMart,1 L,19.78,23.29
+PROD0034,Generic Product,Bakery,DMart,6 pcs,62.94,76.27
+PROD0035,Bru Gold Coffee 200g,Beverages,HUL,1 L,182.57,209.55
+PROD0036,Red Label Tea 500g,Beverages,HUL,6 pcs,55.52,66.39
+PROD0037,Coca-Cola 2L,Beverages,Coca-Cola,6 pcs,37.53,46.57
+PROD0038,Britannia Cheese Slices 200g,Dairy,Britannia,250 ml,103.0,132.15
+PROD0039,Generic Product,Bakery,DMart,6 pcs,197.27,225.31
+PROD0040,Generic Product,Bakery,DMart,1 L,55.99,66.3
+PROD0041,Generic Product,Fruits,DMart,6 pcs,137.71,163.96
+PROD0042,Nestle Curd 400g,Dairy,Nestle,250 ml,154.71,178.28
+PROD0043,Bingo Mad Angles 80g,Snacks,ITC,250 ml,55.15,68.02
+PROD0044,Britannia Cheese Slices 200g,Dairy,Britannia,1 L,148.36,188.19
+PROD0045,Kurkure Masala Munch 90g,Snacks,PepsiCo,500 g,79.88,92.55
+PROD0046,Generic Product,Fruits,DMart,500 g,130.14,161.12
+PROD0047,Generic Product,Vegetables,DMart,6 pcs,130.37,153.5
+PROD0048,Generic Product,Bakery,DMart,1 kg,111.8,132.79
+PROD0049,Generic Product,Fruits,DMart,6 pcs,27.16,31.68
+PROD0050,Generic Product,Bakery,DMart,1 L,168.71,207.0
